@@ -1,5 +1,7 @@
 ► NanoBackups-Script ◄
 
+➤ This script makes a backup file for every file you create with text editor nano.
+
 ➤ NanoBackups Setup:
    
     ● nano .profile
